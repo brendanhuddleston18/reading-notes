@@ -54,4 +54,4 @@ You can reach me at [LinkedIn Profile](https://www.linkedin.com/in/brendan-huddl
 
 ### What are the three symbols you can use to create an unordered (bulleted) list with Markdown?
 
--Three Symbols you can use to create an unordered list are : '-*+'
+- Three Symbols you can use to create an unordered list are : '-*+'
