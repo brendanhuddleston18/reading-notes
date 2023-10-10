@@ -22,4 +22,4 @@ My name is Brendan Huddleston and I'm an aspiring Software Developer based out o
 
 You can reach me at [LinkedIn Profile](https://www.linkedin.com/in/brendan-huddleston-17b745b9/)
 
-[My GITHUB Portfolio](https://github.com/brendanhuddleston18)
+[My GitHub Portfolio](https://github.com/brendanhuddleston18)
