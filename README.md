@@ -48,3 +48,5 @@ You can reach me at [LinkedIn Profile](https://www.linkedin.com/in/brendan-huddl
 
 - [Class 07 Notes: Programming with JavaScript](https://brendanhuddleston18.github.io/reading-notes/class07notes)
 - [Class 08 Notes: Operators and Loops](https://brendanhuddleston18.github.io/reading-notes/class08notes)
+
+## Code 201 Reading Notes!
