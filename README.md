@@ -21,7 +21,7 @@ My name is Brendan Huddleston and I'm an aspiring Software Developer based out o
 
 ## Description
 
-This website is a place for my notes to live and breath! I will be updating these notes everyday for Code 102 and 201!
+This website is a place for my notes to live and breathe! I will be updating these notes everyday for Code 102 and 201!
 
 You can reach me at [LinkedIn Profile](https://www.linkedin.com/in/brendan-huddleston-17b745b9/)
 
@@ -50,3 +50,21 @@ You can reach me at [LinkedIn Profile](https://www.linkedin.com/in/brendan-huddl
 - [Class 08 Notes: Operators and Loops](https://brendanhuddleston18.github.io/reading-notes/code102reading-notes/class08notes)
 
 ## Code 201 Reading Notes!
+
+_DATES/CLASS NAMES TO BE DETERMINED_
+
+- [Class 01 Notes](https://brendanhuddleston18.github.io/reading-notes/code201reading-notes/class01notes)
+- [Class 02 Notes](https://brendanhuddleston18.github.io/reading-notes/code201reading-notes/class02notes)
+- [Class 03 Notes](https://brendanhuddleston18.github.io/reading-notes/code201reading-notes/class03notes)
+- [Class 04 Notes](https://brendanhuddleston18.github.io/reading-notes/code201reading-notes/class04notes)
+- [Class 05 Notes](https://brendanhuddleston18.github.io/reading-notes/code201reading-notes/class05notes)
+- [Class 06 Notes](https://brendanhuddleston18.github.io/reading-notes/code201reading-notes/class06notes)
+- [Class 07 Notes](https://brendanhuddleston18.github.io/reading-notes/code201reading-notes/class07notes)
+- [Class 08 Notes](https://brendanhuddleston18.github.io/reading-notes/code201reading-notes/class08notes)
+- [Class 09 Notes](https://brendanhuddleston18.github.io/reading-notes/code201reading-notes/class09notes)
+- [Class 10 Notes](https://brendanhuddleston18.github.io/reading-notes/code201reading-notes/class10notes)
+- [Class 11 Notes](https://brendanhuddleston18.github.io/reading-notes/code201reading-notes/class11notes)
+- [Class 12 Notes](https://brendanhuddleston18.github.io/reading-notes/code201reading-notes/class12notes)
+- [Class 13 Notes](https://brendanhuddleston18.github.io/reading-notes/code201reading-notes/class13notes)
+- [Class 14 Notes](https://brendanhuddleston18.github.io/reading-notes/code201reading-notes/class14notes)
+- [Class 15 Notes](https://brendanhuddleston18.github.io/reading-notes/code201reading-notes/class15notes)
