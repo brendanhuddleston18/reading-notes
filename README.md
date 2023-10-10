@@ -1,6 +1,6 @@
 # My Learning Journal
 
-## Growth Mindset
+<!-- ## Growth Mindset
 
 By Brendan Huddleston 09OCT2023
 ![Image showing Growth Mindset](https://c.pxhere.com/images/a2/76/a2b998182d273d8002294de3ae56-1587953.jpg!d)
@@ -13,17 +13,21 @@ I have 3 reminders that I tell myself in order to maintain a _growth mindset_ :
 
 - **Stay Positive**, being in a good mental spot always helps with learning new info!
 - **Ask Questions**, don't feel embarrassed to ask questions. Everyone starts somewhere.
-- **Don't give up!** Obstacles are necessary for learning
+- **Don't give up!** Obstacles are necessary for learning -->
 
-### About Me
+## About Me
 
 My name is Brendan Huddleston and I'm an aspiring Software Developer based out of Fort Worth, Texas. I am 25 years old and my favorite hobbies are working out, playing computer games and learning new subjects! I am currently learning HTML, CSS, and JavaScript.
+
+## Description
+
+This website is a place for my notes to live and breath! I will be updating these notes everyday for Code 102 and 201!
 
 You can reach me at [LinkedIn Profile](https://www.linkedin.com/in/brendan-huddleston-17b745b9/)
 
 [My GitHub Portfolio](https://github.com/brendanhuddleston18)
 
-## Class Notes!
+## Code 102 Reading Notes!
 
 ### 09OCT2023
 
