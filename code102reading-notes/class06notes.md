@@ -18,3 +18,8 @@
 ### What is information received from the user called?
 
 - Input
+
+### My own notes
+
+- Used on front-end and back-end
+- Object Oriented
