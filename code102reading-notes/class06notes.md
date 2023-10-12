@@ -24,3 +24,4 @@
 - Used on front-end and back-end
 - Object Oriented
 - you can use JS internally or externally
+- able to use JS method to command in order to adjust user input to meet conditions (depending on where you place method will if it affects User Input or not)
