@@ -13,7 +13,7 @@
 ### What is an "assignment" operator, and what does it do?
 
 - It assigns a value to a variable.
-  -Ex. =, +=, -=
+- Ex. =, +=, -=
 
 ### What is information received from the user called?
 
@@ -23,3 +23,4 @@
 
 - Used on front-end and back-end
 - Object Oriented
+- you can use JS internally or externally
