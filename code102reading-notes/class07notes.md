@@ -8,6 +8,7 @@
 ### What is a JavaScript `function`?
 
 - A block of code designed to perform a particular task, executed when "something" invokes it (calls it)
+- "commmand"
 
 ### What does it mean to `invoke` - or `call` - a function
 
@@ -20,8 +21,9 @@
 
 ### My own notes
 
-`function name(parameter1, parameter2, parameter3) {
+`function functionName(parameter1, parameter2, parameter3) {
   // code to be executed
 }`
 
 - Functions can be used similar to variables, if you declare a variable inside a function it can only be used inside that function (It's Local)
+- `<script src="script.js"></script>`
