@@ -68,3 +68,7 @@ _DATES/CLASS NAMES TO BE DETERMINED_
 - [Class 13 Notes](https://brendanhuddleston18.github.io/reading-notes/code201reading-notes/class13notes)
 - [Class 14 Notes](https://brendanhuddleston18.github.io/reading-notes/code201reading-notes/class14notes)
 - [Class 15 Notes](https://brendanhuddleston18.github.io/reading-notes/code201reading-notes/class15notes)
+
+## Code 301 Reading Notes!
+
+## Code 401 Reading Notes!
