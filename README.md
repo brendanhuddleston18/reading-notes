@@ -72,3 +72,7 @@ _DATES/CLASS NAMES TO BE DETERMINED_
 ## Code 301 Reading Notes!
 
 ## Code 401 Reading Notes!
+
+## Things I want to know more about
+
+[Things I want to know more about](https://brendanhuddleston.github.io/reading-notes/newPage)
