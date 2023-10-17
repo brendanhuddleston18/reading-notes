@@ -75,4 +75,4 @@ _DATES/CLASS NAMES TO BE DETERMINED_
 
 ## Things I want to know more about
 
-[Things I want to know more about](https://brendanhuddleston.github.io/reading-notes/newPage)
+[Things I want to know more about](https://brendanhuddleston18.github.io/reading-notes/newPage)
