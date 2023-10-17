@@ -76,3 +76,7 @@ _DATES/CLASS NAMES TO BE DETERMINED_
 ## Things I want to know more about
 
 [Things I want to know more about](https://brendanhuddleston18.github.io/reading-notes/newPage)
+
+## Prompt Engineering
+
+[My Prompts and chatbot outcomes](https://brendanhuddleston18.github.io/reading-notes/prompt-engineering)
