@@ -45,3 +45,7 @@
 2. You can add JavaScript to your webpage 2 ways: Internally with the `<script>code you want to utilize with JavaScrpt</script>` inside of your actual HTML Doc. or Externally by creating a script sheet(usually named script.js) and still utilizing the `<script>` tag except this time with an attribute sourcing your new script sheet. `<script src='script.js'></script>`
 
 ## Things I want to know more about?
+
+- How do you implement APIs? Where do you find them?
+
+- Two things that require JS question confused me
