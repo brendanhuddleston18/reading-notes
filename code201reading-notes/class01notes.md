@@ -40,7 +40,7 @@
 
 ## What is JavaScript?
 
-1. Two things that require JavaScript in the browser are: user interactivity with the webpage(buttons, prompts, carousels etc) and Application Programming Interfaces (APIs) which are premade kits that assist programmers with implementing different functions onto their own projects.
+1. Two things that require JavaScript in the browser are: user interactivity with the webpage(buttons, prompts, carousels etc) and Application Programming Interfaces (APIs) which are premade kits that assist programmers with implementing different capabilities onto their own projects.
 
 2. You can add JavaScript to your webpage 2 ways: Internally with the `<script>code you want to utilize with JavaScrpt</script>` inside of your actual HTML Doc. or Externally by creating a script sheet(usually named script.js) and still utilizing the `<script>` tag except this time with an attribute sourcing your new script sheet. `<script src='script.js'></script>`
 
