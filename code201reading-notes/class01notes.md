@@ -26,4 +26,16 @@
 
 6. The `<meta>` tag is used in the `<head>` of the HTML document and depending on what metadata you want to specify you would utilize an attribute for `<meta>`. For an example: `<meta charset="utf-8">` which specifies which characters(think language) the document will utilize.
 
-## Miscellaneous
+## How to start to design a website
+
+1. The first step to designing a website is 'Project ideation' which consists of `What exactly do I want to accomplish` `How will a website help me reach my goals?` `What needs to be done, and in what order, to reach my goals`. [source]https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Design_and_accessibility/Thinking_before_coding
+
+2. The most important question to answer when designing a Website is 'What exactly do I want to accomplish?' It is the basis and motivation for the rest of your project(website).
+
+## Semantics
+
+1. You should use an `<h1>` element over a `<span>` element to display a top level heading because it provides more specificity. `<h1>` elements also are larger (talking about just HTML not including CSS font-size) and provide information on what the goal of the element is not only for the creater of the document but if anyone else is also looking at the code.
+
+2. The benefits of using semantic tags in our HTML are, specificity and ease of use. Sure you can use a whole bunch of `<div>` elements but that won't tell anyone what the role of that element is if they need to change code or identify an element.
+
+## What is JavaScript?
