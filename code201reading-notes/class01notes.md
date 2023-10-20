@@ -28,7 +28,7 @@
 
 ## How to start to design a website
 
-1. The first step to designing a website is 'Project ideation' which consists of `What exactly do I want to accomplish` `How will a website help me reach my goals?` `What needs to be done, and in what order, to reach my goals`. [source]https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Design_and_accessibility/Thinking_before_coding
+1. The first step to designing a website is 'Project ideation' which consists of `What exactly do I want to accomplish` `How will a website help me reach my goals?` `What needs to be done, and in what order, to reach my goals`. [source](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Design_and_accessibility/Thinking_before_coding)
 
 2. The most important question to answer when designing a Website is 'What exactly do I want to accomplish?' It is the basis and motivation for the rest of your project(website).
 
