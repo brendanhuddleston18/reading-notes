@@ -13,21 +13,18 @@
 ## Learn CSS
 
 1. You can apply CSS internally, externally and inline.
-
-- Internally: Using the `<style>` tag in the `<head>` of the element
-- Externally: Making a stylesheet, usually named `style.css`, and linking it to the html document: `<link rel="stylesheet" href="style.css">`
-- Inline: Which is not best practice but you can add a style attribute directly to an HTML tag: `<p style="color: blue">`
+   Internally: Using the `<style>` tag in the `<head>` of the element
+   Externally: Making a stylesheet, usually named `style.css`, and linking it to the html document: `<link rel="stylesheet" href="style.css">`
+   Inline: Which is not best practice but you can add a style attribute directly to an HTML tag: `<p style="color: blue">`
 
 2. We should avoid using inline styles because it is very inefficient and also very hard to read since it is mixed into the HTML as well.
 
-`   h2 {
+`h2 {
      color: black;
      padding: 5px;
    }`
 
-3.  1. The h2 element is representing the selector in this example.
-    2. The `color: black;` and `padding: 5px;` are CSS declarations.
-    3. The `color:` and `padding:` are the actual properties
+3.  (1)The h2 element is representing the selector in this example. (2) The `color: black;` and `padding: 5px;` are CSS declarations. (3) The `color:` and `padding:` are the actual properties
 
 ## Learn JS
 
