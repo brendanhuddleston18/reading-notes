@@ -13,9 +13,9 @@
 ## Learn CSS
 
 1. You can apply CSS internally, externally and inline.
-   Internally: Using the `<style>` tag in the `<head>` of the element
-   Externally: Making a stylesheet, usually named `style.css`, and linking it to the html document: `<link rel="stylesheet" href="style.css">`
-   Inline: Which is not best practice but you can add a style attribute directly to an HTML tag: `<p style="color: blue">`
+   Internally: Using the `<style>` tag in the `<head>` of the element.
+   Externally: Making a stylesheet, usually named `style.css`, and linking it to the html document: `<link rel="stylesheet" href="style.css">`.
+   Inline: Which is not best practice but you can add a style attribute directly to an HTML tag: `<p style="color: blue">`.
 
 2. We should avoid using inline styles because it is very inefficient and also very hard to read since it is mixed into the HTML as well.
 
@@ -38,20 +38,12 @@
 
 1. An if statement checks a condition and if it evaluates to true, then the code block will execute.
 
-`if(myName.toLowerCase == 'brendan'){
-  console.log('This guy's name is Brendan');
-} else {
-  console.log('Don't think he's a Brendan');
-}`
-
 2. `else if` is used to add another condition to your if statment.
-
-`If(){
-
-} else if(){
-
-}`
 
 3. 3 different type of comparison operators are: Greater/less than `>`/`<`, strict equality `===`(left and right values must be exactly identical), Less/Greater than or equal to `<=`/`>=`
 
 4. The `&&` logical operator means 'and', so both values on either side of the operator must result to true in order for the statement to be true. The `||` logical operator means 'or' so only one value on either side of the operator needs to be true in order for the result to be true.
+
+## Things I want to know more about
+
+- Is there to different functions? `alert()` vs `function()`? Confused on this
