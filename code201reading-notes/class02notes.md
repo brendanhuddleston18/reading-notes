@@ -1,5 +1,9 @@
 # Class 02 Reading Notes
 
+## Why are these subjects important?
+
+HTML, CSS, and JavaScript are important to know because they are the building blocks of websites. They rely on eachother and are intertwined in order to make a website functional and appealing to the eye!
+
 ## Continue Reading Intro. to HTML
 
 1. It is important to use semantics in our HTML in order to give elements purpose. Semantic elements serve a role in the HTML document and also help paint the picture of what certain elements' tasks are for other developers who might be looking at your code.
