@@ -1,5 +1,13 @@
 # Class 03 Reading Notes
 
+## Why this matters
+
+- Differentiating between the two types of lists is important based on precedence/heirarchy of list items
+
+- The Box Model helps with spacing between elements and within elements inorder to make the website look how the User would appreciate it.
+
+- JavaScript arrays are a great way to store multiple list like values in one variable.  Operators are important for assignment of variables and values.  Condtions are great for requiring a certain input from a user and loops could continue to prompt that input until the user gets it correct.
+
 ## Learn HTML
 
 1. You should use an `unordered list` when you want to list content that doesn't require a specific heirarchy or numerical precedence
@@ -38,7 +46,9 @@
 
 5. A real world situation of a conditional statement would be a VIP party.  If(person is on the guest list){let them in} else {Tell them to leave};
 
-6. A loop could be useful in javascript when you want to visualize an input from the user with correlating icons.  Like showing 1-5 stars on a class survey depending on what the student rated the class.  `for`
+6. A loop could be useful in javascript when you want to visualize an input from the user with correlating icons.  Like showing 1-5 stars on a class survey depending on what the student rated the class.  
+
+`for (let x = 1; x <= stars; x++){document.write(star icon);}`
 
 ## Things I want to know more about
 
