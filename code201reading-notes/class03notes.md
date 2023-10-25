@@ -31,11 +31,11 @@
 2. It is a valid array, in order to access the values stored you would need to use the variable and `[]` with which array you want to choose.  Then use another set of `[]` to access whatever item inside of interior array.  Ex: `people[1][3]` would come back with librarian.
 
 3. Five shorthand operators for assignment in javascript are:
-  1. The addition assigment `x += y`, which means that x is the value of x plus whatever value `y` is.
-  2. The multiplaction assignment `x *= y`, x is the value of x times y
-  3. The subtraction assignment `x -= y`, x is the value of x minus y
-  4. The division assignment `x /= y`, x is the value of x divided by y
-  5. Logical or assignment `x ||= y`, x is true or (x = y) is true.
+ The addition assigment `x += y`, which means that x is the value of x plus whatever value `y` is.
+ The multiplaction assignment `x *= y`, x is the value of x times y
+ The subtraction assignment `x -= y`, x is the value of x minus y
+ The division assignment `x /= y`, x is the value of x divided by y
+ Logical or assignment `x ||= y`, x is true or (x = y) is true.
 
 4. The result would be `10dog` I got this answer from doing the code on my own in replit.  I originally thought it would be `10falsedog`, and looked to chatgpt in order to find out why it wasn't: "Since 'c' is a boolean value, false=0, so 10 + 0 = 10" -Chatgpt
 
