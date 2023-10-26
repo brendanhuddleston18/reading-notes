@@ -1,0 +1,41 @@
+# Class 04 Notes 
+
+## Why this is important
+
+- Links allow users to access other important information, like other webpages or downloads that they might find useful or desirable
+
+- Flow and positioning are important to understand in order to understand how elements react to eachother especially if you move them.  Also great to spice up your website by having elements that don't interfere with eachother and putting them where they look best.
+
+- 
+
+## Learn HTML, Creating Hyperlinks
+
+1. An `<a>`"anchor" element
+
+2. The `href` attribute contains the url to the website you want to link
+
+3. We can ensure links on our pages are accessible to all readers by making the link clear on what is for users who might be utilizing a screen reader.
+
+## CSS Layout: Normal Flow CSS Layout: Positioning
+
+1. "Normal flow" is the default layout for websites if the developer hasn't changed the layout.
+
+2. Block level elements take up the entirety of the width of the page(unless given a margin) so other elements will not be able to sit to the left or right of them.  Inline elements only take up the space of the actual content itself so they're able to sit next to eachother.
+
+3. Static positioning is the default positioning on an element.  Static positioning means that the element will be in its normal position in the document "Nothing special to see here" [source](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Positioning)
+
+4. Advantages of absolute positioning are that you are able to move an element to a desired location without having to worry about document flow.  Great for different features like popup information boxes and features that can be dragged and drop on the webpage.
+
+5. The key differenece between fixed positioning and absolute positioning are that fixed position doesn't position the element based on its relative container it positions it relative to the viewport(visible website on a screen)
+
+## Learn JS
+
+- Declaring a function is similar to variables.  You're giving that function value, and since it's a function you can keep reusing it more efficiently.  Invoking(Calling) a function means you're activating the function or bringing it to life and telling it to do its job.
+
+## Miscellaneous
+
+-
+
+## Things I want to know more about
+
+- The importance of z-index
