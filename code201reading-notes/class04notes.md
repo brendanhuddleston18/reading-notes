@@ -42,4 +42,8 @@
 
 - The importance of z-index
 
-- `const myNumber = Math.random();` might be useful for lab 03 stretch goals
+- `const myNumber = Math.random();` might be useful for lab 03 stretch goals.
+
+## In class lecture
+
+- 
