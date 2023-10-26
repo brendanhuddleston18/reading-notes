@@ -58,4 +58,10 @@
 
 4. Pull request on Github to originator repo
 
-5. Main person has updates from forker
+5. Main person has updates from forker.
+
+### Functions
+
+- Fulling baked function= Function with parameters inside parentheses
+
+- Return statements= 
