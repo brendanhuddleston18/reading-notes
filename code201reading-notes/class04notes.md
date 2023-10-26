@@ -46,4 +46,16 @@
 
 ## In class lecture
 
-- 
+### Git Stuff (Pull/Forking)
+
+- Fork = new repo based on another one
+
+1. Fork from Partner on github
+
+2. Clone repo down locally
+
+3. Do work, ACP
+
+4. Pull request on Github to originator repo
+
+5. Main person has updates from forker
