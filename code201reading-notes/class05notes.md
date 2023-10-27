@@ -31,3 +31,11 @@
 ## Things I want to know more about
 
 - Thought this reading was pretty self explanatory.  No questions here
+
+## In class lecture
+
+- div > span {} will select the direct the child of the div which is a span
+
+- div span {} will select any span element inside of a div
+
+- div ~ span {} is used to select elements that are siblings of a specified element and share the same parent
