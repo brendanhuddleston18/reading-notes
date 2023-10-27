@@ -63,5 +63,3 @@
 ### Functions
 
 - Fulling baked function= Function with parameters inside parentheses
-
-- Return statements= 
