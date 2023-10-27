@@ -39,3 +39,5 @@
 - div span {} will select any span element inside of a div
 
 - div ~ span {} is used to select elements that are siblings of a specified element and share the same parent
+
+- `git checkout -b content` "switched to a new branch called content"  then whatever changes you make on the `content` branch you will push them up using `git push origin content` then merge the second branch with main.  `git checkout main` will switch you to main branch then you can `git pull origin main`.
