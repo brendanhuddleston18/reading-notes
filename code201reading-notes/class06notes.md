@@ -28,4 +28,6 @@
 
 - Definitely still fuzzy on question 4/5 of the JS section, specifically the "if an object property name is held in a variable" and the point of `this` if you could just use the object name.
 
+- Does `this` stay in the local scope of the current object? So you could reuse the object?
+
 - What is an API?
