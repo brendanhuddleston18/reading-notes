@@ -74,10 +74,24 @@ You can reach me at [LinkedIn Profile](https://www.linkedin.com/in/brendan-huddl
 ### 30OCT2023
 
 - [Class 06 Notes](https://brendanhuddleston18.github.io/reading-notes/code201reading-notes/class06notes)
+
+### 31OCT2023
+
 - [Class 07 Notes](https://brendanhuddleston18.github.io/reading-notes/code201reading-notes/class07notes)
+
+### 01NOV2023
 - [Class 08 Notes](https://brendanhuddleston18.github.io/reading-notes/code201reading-notes/class08notes)
+
+### 02NOV2023
+
 - [Class 09 Notes](https://brendanhuddleston18.github.io/reading-notes/code201reading-notes/class09notes)
+
+### 03NOV2023
+
 - [Class 10 Notes](https://brendanhuddleston18.github.io/reading-notes/code201reading-notes/class10notes)
+
+### 06NOV2023
+
 - [Class 11 Notes](https://brendanhuddleston18.github.io/reading-notes/code201reading-notes/class11notes)
 - [Class 12 Notes](https://brendanhuddleston18.github.io/reading-notes/code201reading-notes/class12notes)
 - [Class 13 Notes](https://brendanhuddleston18.github.io/reading-notes/code201reading-notes/class13notes)
