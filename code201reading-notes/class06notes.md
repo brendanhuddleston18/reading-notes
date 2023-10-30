@@ -31,3 +31,11 @@
 - Does `this` stay in the local scope of the current object? So you could reuse the object?
 
 - What is an API?
+
+## In class lecture
+
+- Cards and Decks, create the containers "deck" and you can have divs act as "cards".  Then you can keep copying them if need be.
+
+- Objects, properties= "has" values, any valid datatype, methods="can" actions, verbs, what you can do 'function'. Define using `{}`. Access properties + methods with dot notation:  `object.property` `object.method`.
+
+- Key/Value pairs: `name: 'Geno'` key then value.
