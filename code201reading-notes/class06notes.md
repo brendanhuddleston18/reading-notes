@@ -39,3 +39,7 @@
 - Objects, properties= "has" values, any valid datatype, methods="can" actions, verbs, what you can do 'function'. Define using `{}`. Access properties + methods with dot notation:  `object.property` `object.method`.
 
 - Key/Value pairs: `name: 'Geno'` key then value.
+
+- `this` refers to an instance.  In class ex. `geno` is an instance of an object. Only works within the instance.  It 'is' the instance.
+
+- You should never directly change property values.
