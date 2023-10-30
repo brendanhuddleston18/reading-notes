@@ -43,3 +43,5 @@
 - `this` refers to an instance.  In class ex. `geno` is an instance of an object. Only works within the instance.  It 'is' the instance.
 
 - You should never directly change property values.
+
+- DOM = Document Object Model.  
