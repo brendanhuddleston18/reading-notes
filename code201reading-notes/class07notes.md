@@ -38,5 +38,5 @@
 
 - Constructor/"Factory": a way to create a new object with a function so the new object will automatically have desired properties/methods.
 
-- ![constructorExample](screeenshots/constructorExample.png)
+- ![constructorExample](screenshots/constructorExample.png)
 
