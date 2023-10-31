@@ -31,3 +31,12 @@
 - For number 2 in the constructor section, feel like `this` means a very similar thing in both objects and constructors.
 
 - Would like more light shed on prototypes and inheritance.  It can't be that easy to understand right?
+
+## In Class Lecture
+
+- "POJO" Plain Ole JS Object. `brendan = {name: brendan, hair, true}`
+
+- Constructor/"Factory": a way to create a new object with a function so the new object will automatically have desired properties/methods.
+
+- ![constructorExample](screeenshots/constructorExample.png)
+
