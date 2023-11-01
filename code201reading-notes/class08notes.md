@@ -21,3 +21,9 @@
 ## Things I want to know more about?
 
 - N/A, Have used Flexbox quite a bit before.  Looking forward to In Class Lecture
+
+## In class lecture 
+
+- [CompleteGuideToFlexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
+- 
