@@ -32,7 +32,7 @@
 
 1. Events are similar to triggers or a cause and effect.  When something occurs something else will trigger or happen.
 
-2. You need to provide a string so the event can listen to and a function to call when the event happens when using the `addEventListener()` method.
+2. You need to provide the type of event can listen to and a function to call when the event happens when using the `addEventListener()` method.
 
 3. "Event objects provide extra features and information" [source](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events#event_objects).  The target within the event object is useful because it only applies to the element that the event occured on.  
 
@@ -42,3 +42,6 @@
 
 - When you say `"click"` for the `btn.addEventListener()` does the computer automatically recognize click.
 
+## In class lecture
+
+- 
