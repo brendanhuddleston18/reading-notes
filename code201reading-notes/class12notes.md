@@ -27,3 +27,9 @@
 ## Things I want to know more about
 
 - What does `getContext()` do exactly that seemed like a vague section in the reading.
+
+## In Class lecture
+
+- CDN- Content Delivery Network
+
+- 
