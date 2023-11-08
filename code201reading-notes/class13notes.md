@@ -15,3 +15,7 @@
 ## Things I want to know more about
 
 - Couldn't find the answer to number 2
+
+## In Class Lecture
+
+- 
