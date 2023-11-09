@@ -21,3 +21,7 @@
 1. Some benefits to using CSS transitions are to engage users, increase traffic to your websites and to ensure your website is visually appealing. 
 
 2. This topic will allow me to be a better front end developer and give me more tips to spice up my CSS(I need it). A lot of these also could work well for the Code 201 project.
+
+## Things I want to learn more
+
+- N/A
