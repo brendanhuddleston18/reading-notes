@@ -10,7 +10,7 @@
 
 2. Any personal sensitive information?
 
-3. Local storage can store strings. You can use `JSON.stringify()` and `JSON.parse()` methods to convert the data type to a string.
+3. Local storage can store strings. You can use `JSON.stringify()`  methods to convert the data type to a string. `JSON.parse()` To convert it back to object. 
 
 ## Things I want to know more about
 
@@ -18,4 +18,9 @@
 
 ## In Class Lecture
 
-- 
+- localStorage has 2 methods
+    - setItem("key", value);
+    - getItem("key")
+    - value can only be a string
+
+- JSON, JavaScript Object Notation

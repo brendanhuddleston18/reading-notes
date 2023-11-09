@@ -105,7 +105,7 @@ You can reach me at [LinkedIn Profile](https://www.linkedin.com/in/brendan-huddl
 
 - [Class 14 Notes](https://brendanhuddleston18.github.io/reading-notes/code201reading-notes/class14notes)
 
-### 10NOV2023
+### 10NOV2023 
 
 - [Class 15 Notes](https://brendanhuddleston18.github.io/reading-notes/code201reading-notes/class15notes)
 
