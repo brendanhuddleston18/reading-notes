@@ -25,3 +25,7 @@
 ### Questions I have
 
 1. In a lot of the react stuff it seems like there are both HTML and JavaScript style code imbedded within eachother, is react done in the markup?
+
+### In Class Lecture
+
+- 
