@@ -38,7 +38,7 @@ You can reach me at [LinkedIn Profile](https://www.linkedin.com/in/brendan-huddl
 
 ### 23OCT2023
 
-- [Class 01 Notes](https://brendanhuddleston18.github.io/reading-notes/code-201-notes-page)
+- [Code 201 Notes](https://brendanhuddleston18.github.io/reading-notes/code-201-notes-page)
 
 ## Code 301 Reading Notes!
 
