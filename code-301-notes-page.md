@@ -2,6 +2,8 @@
 
 ## 27 Nov 2023
 
+- [Dive Into React](https://brendanhuddleston18.github.io/reading-notes/code301reading-notes/diveIntoReact)
+
 - [Class 1 Notes](https://brendanhuddleston18.github.io/reading-notes/code301reading-notes/read01)
 
 ## 28 Nov 2023
