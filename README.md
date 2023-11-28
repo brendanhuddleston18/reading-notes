@@ -29,20 +29,16 @@ You can reach me at [LinkedIn Profile](https://www.linkedin.com/in/brendan-huddl
 
 ## Code 102 Reading Notes!
 
-### Code 102
-
 - [Code 102 Notes](https://brendanhuddleston18.github.io/reading-notes/code-102-notes-page)
 
 
 ## Code 201 Reading Notes!
 
-### Code 201
-
 - [Code 201 Notes](https://brendanhuddleston18.github.io/reading-notes/code-201-notes-page)
 
 ## Code 301 Reading Notes!
 
-- [Class 01 Notes](https://brendanhuddleston18.github.io/reading-notes/code301reading-notes/read01)
+- [Code 301 Notes](https://brendanhuddleston18.github.io/reading-notes/code-301-notes-page)
 
 ## Code 401 Reading Notes!
 
