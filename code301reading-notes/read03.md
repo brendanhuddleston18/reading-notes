@@ -4,7 +4,7 @@
 
 - .map() is important because it simplifies looping over an array that is given and storing that info into a new array.
 
-- Waiting on class to describe the spread operator
+- The spread operator simplifies certain operations on arrays and objects
 
 - Passing functions between components is important so devs do not have to repeat code!
 
