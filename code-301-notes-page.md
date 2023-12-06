@@ -14,11 +14,19 @@
 
 - [Class 05 Notes](https://brendanhuddleston18.github.io/reading-notes/code301reading-notes/read05)
 
+
+## Week Two
+
+
 - [Class 06 Notes](https://brendanhuddleston18.github.io/reading-notes/code301reading-notes/read06)
 
 - [Class 07 Notes](https://brendanhuddleston18.github.io/reading-notes/code301reading-notes/read07)
 
-## Week Two
+- [Class 08 Notes](https://brendanhuddleston18.github.io/reading-notes/code301reading-notes/read08)
+
+- [Class 09 Notes](https://brendanhuddleston18.github.io/reading-notes/code301reading-notes/read09)
+
+- [Class 10 Notes](https://brendanhuddleston18.github.io/reading-notes/code301reading-notes/read10)
 
 
 ## Week Three
