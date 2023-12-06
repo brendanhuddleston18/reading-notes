@@ -36,3 +36,9 @@
 ## Things I want to know
 
 - When they say "The Server" what do they mean?
+
+## In Class Lecture 
+
+- `.find()` finds the first element in an array that satisfies the callback function(returns true).
+
+- 
