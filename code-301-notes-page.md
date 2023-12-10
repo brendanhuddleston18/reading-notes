@@ -30,3 +30,13 @@
 
 
 ## Week Three
+
+- [Class 11 Notes](https://brendanhuddleston18.github.io/reading-notes/code301reading-notes/read11)
+
+-[Class 12 Notes](https://brendanhuddleston18.github.io/reading-notes/code301reading-notes/read12)
+
+- [Class 13 Notes](https://brendanhuddleston18.github.io/reading-notes/code301reading-notes/read13)
+
+- [Class 14 Notes](https://brendanhuddleston18.github.io/reading-notes/code301reading-notes/read14)
+
+- [Class 15 Notes](https://brendanhuddleston18.github.io/reading-notes/code301reading-notes/read15)
