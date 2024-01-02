@@ -42,6 +42,8 @@ You can reach me at [LinkedIn Profile](https://www.linkedin.com/in/brendan-huddl
 
 ## Code 401 Reading Notes!
 
+- [Code 401 Notes](https://brendanhuddleston18.github.io/reading-notes/code-401-notes-page)
+
 ## Things I want to know more about
 
 [Things I want to know more about](https://brendanhuddleston18.github.io/reading-notes/newPage)
