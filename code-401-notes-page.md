@@ -12,4 +12,4 @@
 
 ### 08 Jan Class 01
 
-- [Class 01](https://https://brendanhuddleston18.github.io/reading-notes/code401reading-notes/class01notes)
+- [Class 01](https://brendanhuddleston18.github.io/reading-notes/code401reading-notes/class01notes)
