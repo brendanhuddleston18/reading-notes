@@ -12,3 +12,8 @@
 - Some SQL database systems are MySQL, PostgreSQL and Oracle
 
 - Uses keywords like `Update, insert, delete, create` to allow devs to manipulate data within the database.
+
+
+![sqlOne](./img/sql1.png)
+
+![sqlTwo](./img/sql2.png)
