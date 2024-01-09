@@ -10,6 +10,8 @@
 
 - [Engineering Notes](https://brendanhuddleston18.github.io/reading-notes/code401reading-notes/engineeringNotes)
 
+- [Data Structures and Algs](https://brendanhuddleston18.github.io/reading-notes/code401reading-notes/dataStructuresAndAlgs)
+
 
 ## Class Notes
 
