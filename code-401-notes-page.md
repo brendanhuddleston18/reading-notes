@@ -18,3 +18,7 @@
 ### 08 Jan Class 01
 
 - [Class 01](https://brendanhuddleston18.github.io/reading-notes/code401reading-notes/class01notes)
+
+### 09 Jan Class 02
+
+- [Class 02](https://brendanhuddleston18.github.io/reading-notes/code401reading-notes/class02notes)
