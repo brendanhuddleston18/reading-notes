@@ -21,4 +21,8 @@
 
 ### 09 Jan Class 02
 
-- [Class 02](https://brendanhuddleston18.github.io/reading-notes/code401reading-notes/class02notes)
+- [Testing and Modules](https://brendanhuddleston18.github.io/reading-notes/code401reading-notes/class02notes)
+
+### 10 Jan Class 03
+
+- [FileIO & Exceptions]()
