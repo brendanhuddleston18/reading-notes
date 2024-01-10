@@ -25,4 +25,4 @@
 
 ### 10 Jan Class 03
 
-- [FileIO & Exceptions]()
+- [FileIO & Exceptions](https://brendanhuddleston18.github.io/reading-notes/code401reading-notes/class03notes)
