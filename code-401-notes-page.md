@@ -26,3 +26,7 @@
 ### 10 Jan Class 03
 
 - [FileIO & Exceptions](https://brendanhuddleston18.github.io/reading-notes/code401reading-notes/class03notes)
+
+### 11 Jan Class 04
+
+- [Classes/Objects/ Thinking Recursively](https://brendanhuddleston18.github.io/reading-notes/code401reading-notes/class04notes)
