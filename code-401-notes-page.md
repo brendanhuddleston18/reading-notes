@@ -30,3 +30,7 @@
 ### 11 Jan Class 04
 
 - [Classes/Objects/ Thinking Recursively](https://brendanhuddleston18.github.io/reading-notes/code401reading-notes/class04notes)
+
+### 12 Jan Class 05
+
+- [Linked Lists](https://brendanhuddleston18.github.io/reading-notes/code401reading-notes/class05notes)
