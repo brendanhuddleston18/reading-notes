@@ -34,3 +34,7 @@
 ### 12 Jan Class 05
 
 - [Linked Lists](https://brendanhuddleston18.github.io/reading-notes/code401reading-notes/class05notes)
+
+### 16 Jan Class 06
+
+- [Ten Thousand Game 1](https://brendanhuddleston18.github.io/reading-notes/code401reading-notes/class06notes)
