@@ -42,3 +42,7 @@
 ### 17 Jan Class 07
 
 - [Ten Thousand Game 2](https://brendanhuddleston18.github.io/reading-notes/code401reading-notes/class07notes)
+
+### 18 Jan Class 08
+
+- [Ten Thousand Game 3](https://brendanhuddleston18.github.io/reading-notes/code401reading-notes/class08notes)
