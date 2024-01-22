@@ -46,3 +46,7 @@
 ### 18 Jan Class 08
 
 - [Ten Thousand Game 3](https://brendanhuddleston18.github.io/reading-notes/code401reading-notes/class08notes)
+
+### 21 Jan Class 11 
+
+- [Data Analysis](https://brendanhuddleston18.github.io/reading-notes/code401reading-notes/class11notes)
