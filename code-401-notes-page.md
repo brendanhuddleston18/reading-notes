@@ -50,3 +50,7 @@
 ### 21 Jan Class 11 
 
 - [Data Analysis](https://brendanhuddleston18.github.io/reading-notes/code401reading-notes/class11notes)
+
+### 22 Jan Class 12
+
+- [Pandas](https://brendanhuddleston18.github.io/reading-notes/code401reading-notes/class12notes)
