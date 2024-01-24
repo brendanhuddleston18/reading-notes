@@ -54,3 +54,7 @@
 ### 22 Jan Class 12
 
 - [Pandas](https://brendanhuddleston18.github.io/reading-notes/code401reading-notes/class12notes)
+
+### 23 Jan Class 13
+
+- [Linear Regressions]()
