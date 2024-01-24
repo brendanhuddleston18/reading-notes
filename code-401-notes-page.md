@@ -57,4 +57,4 @@
 
 ### 23 Jan Class 13
 
-- [Linear Regressions]()
+- [Linear Regressions](https://brendanhuddleston18.github.io/reading-notes/code401reading-notes/class13notes)
