@@ -47,14 +47,18 @@
 
 - [Ten Thousand Game 3](https://brendanhuddleston18.github.io/reading-notes/code401reading-notes/class08notes)
 
-### 21 Jan Class 11 
+### 22 Jan Class 11 
 
 - [Data Analysis](https://brendanhuddleston18.github.io/reading-notes/code401reading-notes/class11notes)
 
-### 22 Jan Class 12
+### 23 Jan Class 12
 
 - [Pandas](https://brendanhuddleston18.github.io/reading-notes/code401reading-notes/class12notes)
 
-### 23 Jan Class 13
+### 24 Jan Class 13
 
 - [Linear Regressions](https://brendanhuddleston18.github.io/reading-notes/code401reading-notes/class13notes)
+
+### 25 Jan Class 14
+
+- [Data Visualization](https://brendanhuddleston18.github.io/reading-notes/code401reading-notes/class14notes)
