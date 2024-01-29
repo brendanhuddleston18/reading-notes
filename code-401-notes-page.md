@@ -62,3 +62,7 @@
 ### 25 Jan Class 14
 
 - [Data Visualization](https://brendanhuddleston18.github.io/reading-notes/code401reading-notes/class14notes)
+
+### 29 Jan Class 16
+
+- [Serverless Functions](https://brendanhuddleston18.github.io/reading-notes/code401reading-notes/class16notes)
