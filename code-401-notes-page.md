@@ -70,3 +70,7 @@
 ### 30 Jan class 17 
 
 - [Web Scraping](https://brendanhuddleston18.github.io/reading-notes/code401reading-notes/class17notes)
+
+### 31 Jan Class 18
+
+- [Cryptography](https://brendanhuddleston18.github.io/reading-notes/code401reading-notes/class18notes)
