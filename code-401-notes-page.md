@@ -74,3 +74,7 @@
 ### 31 Jan Class 18
 
 - [Cryptography](https://brendanhuddleston18.github.io/reading-notes/code401reading-notes/class18notes)
+
+### 01 Feb Class 19
+
+- [Automation](https://brendanhuddleston18.github.io/reading-notes/code401reading-notes/class19notes)
