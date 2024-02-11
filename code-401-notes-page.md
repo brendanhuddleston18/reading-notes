@@ -78,3 +78,7 @@
 ### 01 Feb Class 19
 
 - [Automation](https://brendanhuddleston18.github.io/reading-notes/code401reading-notes/class19notes)
+
+### 12 Feb class 26
+
+- [Django and Tailwind](https://brendanhuddleston18.github.io/reading-notes/code401reading-notes/class26notes)
