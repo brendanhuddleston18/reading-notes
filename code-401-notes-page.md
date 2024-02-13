@@ -79,6 +79,10 @@
 
 - [Automation](https://brendanhuddleston18.github.io/reading-notes/code401reading-notes/class19notes)
 
-### 12 Feb class 26
+### 12 Feb Class 26
 
 - [Django and Tailwind](https://brendanhuddleston18.github.io/reading-notes/code401reading-notes/class26notes)
+
+### 13 Feb Class 27
+
+- [Django Models](https://brendanhuddleston18.github.io/reading-notes/code401reading-notes/class27notes)
