@@ -86,3 +86,12 @@
 ### 13 Feb Class 27
 
 - [Django Models](https://brendanhuddleston18.github.io/reading-notes/code401reading-notes/class27notes)
+
+### 14 Feb Class 28
+
+- Coming Soon!
+
+
+### 15 Feb Classs 29
+
+- [Django Custom User](https://brendanhuddleston18.github.io/reading-notes/code401reading-notes/class29notes)
