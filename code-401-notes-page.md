@@ -98,4 +98,4 @@
 
 ### 19 Feb Class 31
 
-- [Django REST Framework & Docker]
+- [Django REST Framework & Docker](https://brendanhuddleston18.github.io/reading-notes/code401reading-notes/class31notes)
