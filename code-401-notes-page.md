@@ -95,3 +95,7 @@
 ### 15 Feb Classs 29
 
 - [Django Custom User](https://brendanhuddleston18.github.io/reading-notes/code401reading-notes/class29notes)
+
+### 19 Feb Class 31
+
+- [Django REST Framework & Docker]
