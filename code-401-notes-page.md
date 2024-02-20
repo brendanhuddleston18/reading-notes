@@ -99,3 +99,7 @@
 ### 19 Feb Class 31
 
 - [Django REST Framework & Docker](https://brendanhuddleston18.github.io/reading-notes/code401reading-notes/class31notes)
+
+### 20 Feb Class 32
+
+- [Permissions & PostgreSQL](https://brendanhuddleston18.github.io/reading-notes/code401reading-notes/class32notes)
