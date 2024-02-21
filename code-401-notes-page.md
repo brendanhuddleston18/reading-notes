@@ -103,3 +103,7 @@
 ### 20 Feb Class 32
 
 - [Permissions & PostgreSQL](https://brendanhuddleston18.github.io/reading-notes/code401reading-notes/class32notes)
+
+### 21 Feb Class 33
+
+- [Authentication and Production Server](https://brendanhuddleston18.github.io/reading-notes/code401reading-notes/class33notes)
