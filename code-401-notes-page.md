@@ -107,3 +107,7 @@
 ### 21 Feb Class 33
 
 - [Authentication and Production Server](https://brendanhuddleston18.github.io/reading-notes/code401reading-notes/class33notes)
+
+### 22 Feb Class 34
+
+- [API Deployment](https://brendanhuddleston18.github.io/reading-notes/code401reading-notes/class34notes)
