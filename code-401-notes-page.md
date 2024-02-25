@@ -111,3 +111,7 @@
 ### 22 Feb Class 34
 
 - [API Deployment](https://brendanhuddleston18.github.io/reading-notes/code401reading-notes/class34notes)
+
+### 26 Feb Class 36 
+
+- [DSA Review](https://brendanhuddleston18.github.io/reading-notes/code401reading-notes/class36notes)
