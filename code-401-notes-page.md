@@ -115,3 +115,7 @@
 ### 26 Feb Class 36 
 
 - [DSA Review](https://brendanhuddleston18.github.io/reading-notes/code401reading-notes/class36notes)
+
+### 27 Feb Class 37
+
+- [React](https://brendanhuddleston18.github.io/reading-notes/code401reading-notes/class37notes)
