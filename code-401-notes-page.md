@@ -123,3 +123,7 @@
 ### 28 Feb Class 38
 
 - [React 2](https://brendanhuddleston18.github.io/reading-notes/code401reading-notes/class38notes)
+
+### 29 Feb Class 39
+
+- [React 3](https://brendanhuddleston18.github.io/reading-notes/code401reading-notes/class39notes)
