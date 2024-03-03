@@ -127,3 +127,7 @@
 ### 29 Feb Class 39
 
 - [React 3](https://brendanhuddleston18.github.io/reading-notes/code401reading-notes/class39notes)
+
+### 4 Mar Class 41
+
+- [React 4](https://brendanhuddleston18.github.io/reading-notes/code401reading-notes/class41notes)
