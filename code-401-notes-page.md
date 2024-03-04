@@ -131,3 +131,7 @@
 ### 4 Mar Class 41
 
 - [React 4](https://brendanhuddleston18.github.io/reading-notes/code401reading-notes/class41notes)
+
+### 5 Mar Class 42
+
+- [Pythonisms](https://brendanhuddleston18.github.io/reading-notes/code401reading-notes/class42notes)
