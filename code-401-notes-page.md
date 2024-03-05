@@ -12,6 +12,8 @@
 
 - [Data Structures and Algs](https://brendanhuddleston18.github.io/reading-notes/code401reading-notes/dataStructuresAndAlgs)
 
+- [Ethics](https://brendanhuddleston18.github.io/reading-notes/code401reading-notes/ethicsNotes)
+
 
 ## Class Notes
 
