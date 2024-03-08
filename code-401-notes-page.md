@@ -1,5 +1,9 @@
 # Code 401: Python Reading Notes
 
+## Resume screenshot
+
+- [Link](https://brendanhuddleston18.github.io/reading-notes/code401reading-notes/resumeReady)
+
 ## Pre Work Reading
 
 - [Command Line Notes](https://brendanhuddleston18.github.io/reading-notes/code401reading-notes/commandLineNotes)
